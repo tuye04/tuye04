@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tuye04
 - 👀 I’m interested in backend programming  
 - 🌱 I’m currently learning go 
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on web applications 
 - 📫 How to reach me on whytuye@gmail.com
 - 😄 Pronouns: He
 - ⚡ Fun fact: love playing soccer 
