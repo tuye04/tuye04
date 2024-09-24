@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Isacko Tuye 
-- 👀 I’m interested in backend programming  
+- 👀 I’m interested in backend computer programming  
 - 🌱 I’m currently learning go 
 - 💞️ I’m looking to collaborate on Mobile and Web applications 
 - 📫 How to reach me on whytuye@gmail.com
