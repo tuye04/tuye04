@@ -3,7 +3,7 @@
 - 🌱  
 - 💞️  
 - 📫 
-- 😄 Pronouns: He
+- 😄 Pronouns: 
 - ⚡ Fun fact: 
 
 <!---
