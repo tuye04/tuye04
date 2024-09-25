@@ -1,4 +1,4 @@
-- 👋 Hi, backend software engineer  
+- 👋 Hi, I'm software engineer 
 - 👀  
 - 🌱  
 - 💞️  
