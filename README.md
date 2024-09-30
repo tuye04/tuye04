@@ -1,5 +1,5 @@
 - 👋  I'm backend software engineer 
-- 👀 Specializing in Swift Language  
+- 👀 Specializing in golang   
 - 🌱  
 - 💞️  
 - 📫 
