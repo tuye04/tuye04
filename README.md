@@ -1,4 +1,4 @@
-- 👋  I'm backend SWE 
+- 👋  I'm backend Software Engineer  
 - 👀 Specializing in golang   
 - 🌱  
 - 💞️  
