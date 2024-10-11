@@ -1,5 +1,5 @@
-- 👋  I'm backend Software Engineer  
-- 👀 Specializing in golang   
+- 👋  I'm a student, learning basic programming languages 
+- 👀    
 - 🌱  
 - 💞️  
 - 📫 
