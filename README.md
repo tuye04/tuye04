@@ -1,4 +1,4 @@
-- 👋  I'm a student, learning basic programming languages 
+- 👋   
 - 👀    
 - 🌱  
 - 💞️  
