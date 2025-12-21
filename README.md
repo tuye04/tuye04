@@ -1,6 +1,5 @@
-- 👋   Hey! I am full stack software engineer with a knack of building things from scatch 
-- 👀    
-- 🌱  
+- 👋   Hey! I am full stack software engineer with a knack of building things from scatch and simplifying complex software design architecture 
+- 👀    CSS , HTML 5, Nestjs, Angular, Nestjs, ExpressJS, Nodejs
 - 💞️  
 - 📫 
 - 😄 Pronouns: He/Him
