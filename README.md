@@ -1,10 +1,10 @@
-- 👋   
+- 👋   Hey! I am full stack software engineer with a knack of building things from scatch 
 - 👀    
 - 🌱  
 - 💞️  
 - 📫 
-- 😄 Pronouns: 
-- ⚡ Fun fact: 
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Loves hiking 
 
 <!---
 tuye04/tuye04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
