@@ -1,4 +1,4 @@
-- 👋   Hey there! I am a full stack software engineer with a knack of building things from scatch and simplifying complex software design into readable solutions 
+- 👋    I am a full stack software engineer with a knack of building things from scatch and simplifying complex software design into readable solutions 
 - 👀    CSS , HTML 5, Nestjs, Angular, Nestjs, ExpressJS, Nodejs
 - 💞️  
 - 📫 
