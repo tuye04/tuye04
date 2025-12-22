@@ -1,4 +1,4 @@
-  I am a full stack software engineer with a knack of building things from scatch and organizing complexity 
+  I am a full stack software engineer with a knack of building things from scrach and organizing complexity 
   
   Stacks: CSS , HTML 5, Nestjs, Angular, Nestjs, ExpressJS, Nodejs
 
