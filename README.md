@@ -1,6 +1,6 @@
   I am a full stack software engineer with a knack of building things from scrach and organizing complexity 
   
-  Stacks: CSS , HTML 5, NeXtjs, Angular, Nestjs, ExpressJS, Nodejs
+  Stacks: CSS , HTML 5, Nextjs, Angular, Nestjs, ExpressJS, Nodejs
 
 
  He/Him
