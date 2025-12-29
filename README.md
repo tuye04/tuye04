@@ -1,4 +1,4 @@
-I am aspiring software developer  with a knack of building things from scrach and organizing complexity 
+I am aspiring software developer  with interest in applying technology.
   
 Stacks: CSS , HTML 5, Nextjs, Angular, Nestjs, ExpressJS, Nodejs
 
