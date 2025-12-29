@@ -1,6 +1,6 @@
 I am aspiring software developer  with interest in applying technology.
   
-Stacks: CSS , HTML 5, Nextjs, Angular, Nestjs, ExpressJS, Nodejs
+Stacks:  Nextjs, Angular, Nestjs, ExpressJS, Nodejs, Typescripts
 
 
  He/Him
