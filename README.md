@@ -1,6 +1,6 @@
 I an ML student with interest in applying technology.
   
-Interest: Python .Scikitlearn .Numpy. Building and deploying models 
+Interest: Python, Sckitlearn, NumPy, SciPy, matplotlib. Building and deploying models
 
 
  He/Him
