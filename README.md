@@ -1,6 +1,6 @@
-I am aspiring software developer  with interest in applying technology.
+I an ML student with interest in applying technology.
   
-Stacks: Typescript, Nextjs, Angular, Nestjs, ExpressJS, Nodejs. 
+Interest: Python .Sckitlearn .Numpy. Building and deploying models 
 
 
  He/Him
