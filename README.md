@@ -1,4 +1,4 @@
-I am ml engineer passionate about applying technology in payments and banking system
+I am ml engineer passionate about applying technology in creating seemless and effecient payment system
   
   
 Learning: Jupyter Notebooks, NumPy, Tensorflow,  SciPy, matplotlib. Building and deploying models
