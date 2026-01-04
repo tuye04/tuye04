@@ -1,4 +1,4 @@
-I am ml engineer passionate about applying technology in orchestrating  effecient payment processing systems 
+ml engineer passionate about applying technology in orchestrating  effecient payment processing systems 
   
   
 Frameworks: NumPy, Tensorflow, Scikit learn, SciPy, matplotlib. Building and deploying models
