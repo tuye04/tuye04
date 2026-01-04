@@ -1,4 +1,4 @@
-I am ai/ml engineer  with interest in applying technology.
+I am ml engineer passionate about applying technology in payment ecosystem
   
   
 Learning: Jupyter Notebooks, NumPy, Tensorflow,  SciPy, matplotlib. Building and deploying models
