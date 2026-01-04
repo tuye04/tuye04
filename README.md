@@ -1,4 +1,4 @@
-I an ML student with interest in applying technology.
+I am ML student with interest in applying technology.
   
 Interest: Python, Sckitlearn, NumPy, SciPy, matplotlib. Building and deploying models
 
