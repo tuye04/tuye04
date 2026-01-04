@@ -1,7 +1,9 @@
 I am ml engineer passionate about applying technology in creating seemless and effecient payment system
   
   
-Learning: Jupyter Notebooks, NumPy, Tensorflow,  SciPy, matplotlib. Building and deploying models
+Frameworks: NumPy, Tensorflow, Scikit learn, SciPy, matplotlib. Building and deploying models
+
+Languages: python, typescript, PHP, CSS, Javascript 
 
  He/Him
  
