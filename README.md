@@ -3,10 +3,9 @@ I am ML engineer  with interest in applying technology.
   
 Learning: Jupyter Notebooks, NumPy, Tensorflow,  SciPy, matplotlib. Building and deploying models
 
-
  He/Him
  
- Fun fact: Loves music
+
 
 <!---
 tuye04/tuye04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
