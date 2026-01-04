@@ -1,4 +1,4 @@
-I am ML engineer  with interest in applying technology.
+I am ai/ml engineer  with interest in applying technology.
   
   
 Learning: Jupyter Notebooks, NumPy, Tensorflow,  SciPy, matplotlib. Building and deploying models
