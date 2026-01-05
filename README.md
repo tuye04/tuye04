@@ -3,7 +3,7 @@ ml engineer passionate about applying technology in orchestrating  efficient pay
   
 
 
-Languages: python, typescript, PHP, CSS, Javascript 
+Languages: python, typescript, php, Javascript 
 
  He/Him
  
