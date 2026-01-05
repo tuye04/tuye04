@@ -1,4 +1,4 @@
-ml engineer passionate about applying technology in orchestrating  effecient payment processing systems 
+ml engineer passionate about applying technology in orchestrating  efficient payment processing systems 
   
   
 
