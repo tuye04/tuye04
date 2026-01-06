@@ -1,9 +1,9 @@
-software  engineer passionate about applying technology in payment systems  
+Software  engineer passionate building elegant cross platform applications and improving user experience 
   
   
 
 
-Languages: Typescript,Javascript, Nextjs, Angular, Nestjs. 
+Languages: Typescript,Javascript, Nextjs/Angular, React 
 
  He/Him
  
