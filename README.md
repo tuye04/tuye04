@@ -3,7 +3,7 @@ software  engineer passionate about applying technology in payment systems
   
 
 
-Languages: python, typescript, php, Javascript 
+Languages: Typescript,Javascript, Nextjs, Angular, Nestjs. 
 
  He/Him
  
