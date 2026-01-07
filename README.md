@@ -1,4 +1,4 @@
-Software  engineer passionate about building elegant cross platform applications and improving user experience 
+Software engineer passionate about building elegant cross-platform applications in payments
   
   
 
