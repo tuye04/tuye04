@@ -1,4 +1,4 @@
-Software engineer passionate about building elegant cross-platform applications in payments ecosystem
+Software engineer with a passion for building cross-platform applications in payments ecosystem
   
   
 
