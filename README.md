@@ -3,7 +3,7 @@ Software engineer with a keen interest in  building cross-platform mobile applic
   
 
 
-Languages: Typescript,Javascript, Nextjs/Angular, React 
+Languages: Typescript,Javascript, Nextjs/Angular, React, Tailwind CSS
 
  He/Him
  
