@@ -1,7 +1,7 @@
+#
+##
+###
 Software engineer with a keen interest in  building cross-platform mobile applications.MAD
-  
-  
-
 
 Languages: Typescript,Javascript, Nextjs/Angular, React, Tailwind CSS
 
