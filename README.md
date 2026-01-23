@@ -1,6 +1,6 @@
-Software engineer with a keen interest in  building cross-platform mobile applications.MAD
+Frontend engineer, passionate about buiding elegant web applications
 
-Languages: Typescript,Javascript, Nextjs/Angular, React, Tailwind CSS
+Languages: Javascript, Nextjs, React, Next.js
 
 Turning random into meaning 
 
