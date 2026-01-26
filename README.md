@@ -1,10 +1,4 @@
-Frontend engineer, passionate about buiding elegant web applications
 
-Languages: Javascript, Nextjs, React, Next.js
-
-Turning random into meaning 
-
- He/Him
  
 
 
