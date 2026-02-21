@@ -1,9 +1,11 @@
 ## 👋 Hi there, I’m isacko 👨🏾‍💻
 
 I'm a **software engineer** specializing in modern web applications
+
 Current focus🎯
 
 Frontend (40%), 
+
 Solid backend (60%) 
 
 
