@@ -2,7 +2,7 @@
 
 I'm a **software engineer** specializing in modern web applications
 
-Current focus🎯
+**Current focus**🎯
 
 Frontend (40%), 
 
