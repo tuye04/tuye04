@@ -4,9 +4,9 @@ I'm a **software engineer** specializing in modern web applications
 
 **Current focus**🎯
 
-Frontend (40%), 
+Frontend 40%
 
-Solid backend (60%) 
+Backend 60% 
 
 
 I believe in clean code, thoughtful architecture, and continuous learning. 
@@ -22,4 +22,5 @@ I believe in clean code, thoughtful architecture, and continuous learning.
 
 ### 🤝 Let’s connect
 I love translating designs into functional, accessible, and pixel-perfect interfaces with attention to user interaction. 
+
 Open to collaboration and pair programming 
