@@ -13,7 +13,7 @@ I believe in clean code, thoughtful architecture, and continuous learning.
 
 ---
 
-### 🛠 Tech stacks 
+### 🛠 Tech stacks 🛠
 `Javascript` • `React` • `NestJS` • `Node.js` • `MongoDB` • `Docker` 
 
 • Recently exploring Agile development methodologies, Testing (Jest, Cypress), Webpack. 
