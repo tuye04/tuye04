@@ -4,7 +4,7 @@ I'm a **software engineer** specializing in modern web applications
 
 **Current focus**🎯
 
-Backend - Node.js using express.js 
+Backend - js using express.js 
 
 
 I believe in clean code, thoughtful architecture, and continuous learning. 
