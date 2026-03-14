@@ -1,10 +1,10 @@
-## 👋 Hi there, I’m isacko 👨🏾‍💻
+u## 👋 Hi there, I’m isacko 👨🏾‍💻
 
 I'm a **software developer** specializing in modern web applications
 
 **Current focus**🎯
 
-Backend - js with Express.js 
+Backend - js with express.js 
 
 
 I believe in clean code, thoughtful architecture, and continuous learning. 
