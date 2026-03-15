@@ -1,4 +1,4 @@
-u## 👋 Hi there, I’m isacko 👨🏾‍💻
+👋 Hi there, I’m isacko 👨🏾‍💻
 
 I'm a **software developer** specializing in modern web applications
 
