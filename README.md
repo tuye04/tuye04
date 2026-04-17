@@ -1,6 +1,6 @@
 👋 Hi there, I’m isacko 👨🏾‍💻
 
-I'm a **software engineer** specializing in backend software development
+**Software engineer** specializing in backend software development
 
 **Current focus**🎯
 
